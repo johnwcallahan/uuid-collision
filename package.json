@@ -21,5 +21,13 @@
   "devDependencies": {
     "chai": "^4.1.1",
     "mocha": "^3.5.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnwcallahan/uuid-collision.git"
+  },
+  "bugs": {
+    "url": "https://github.com/johnwcallahan/uuid-collision/issues"
+  },
+  "homepage": "https://github.com/johnwcallahan/uuid-collision#readme"
 }
